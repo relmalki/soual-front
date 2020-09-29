@@ -1,0 +1,10 @@
+.main-wrapper {
+  height: 100vh;  
+}
+.my_logo{
+  position: fixed;
+  background:gray;
+  width : 10%;
+  height : 10%;
+  padding: auto;
+}

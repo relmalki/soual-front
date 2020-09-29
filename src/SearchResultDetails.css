@@ -1,0 +1,55 @@
+.content__main {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-areas:
+    "search search"
+    "description result"
+    "description result"
+    "description price";
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1f 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+
+.search {
+  grid-area: search;
+}
+
+.description {
+  grid-area: description;
+  justify-self: start;
+  padding: 5%;
+}
+
+.result {
+  grid-area: result;
+  justify-self: start;
+  padding: 5%;
+}
+
+.price {
+  grid-area: price;
+  justify-self: start;
+  padding: 5%;
+}
+h2 {
+  place-content: center;
+  font-family: "Red Hat Display", sans-serif;
+  color: #3f3844;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:900&display=swap");
+.para_styled {
+  place-content: center;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.text__body {
+  font-size: 1vw;
+  max-width: vw;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+}

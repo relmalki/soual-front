@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+        "query": "google ",
+        "procedure" : "dssds",
+        "result": [
+            "result one for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result two for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result three for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+        ]
+    },
+
+    {
+        "id": 2,
+        "query": "maroc ",
+        "procedure" : "dssds",
+        "result": [
+            "result one for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result two for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result three for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+        ]
+    },
+
+    {
+        "id": 3,
+        "query": "cin",
+        "procedure": "La carte d’identité nationale est un document officiel qui permet à tout citoyen de justifier de son identité et, dès lors qu'elle est en cours de validité, de sa nationalité marocaine. Elle est obligatoire pour tous les citoyens âgés de plus de 18 ans, mais elle peut être obtenue dès l'âge de 16 ans. Concernant la durée de validité de cette carte, elle est de 10 ans.",
+        "result": [
+            "Une copie de la page de livret de famille de l'intéressé avec présentation de ce livret ou une copie intégrale du registre de l'état civil ou d'un extrait d'acte de naissance les deux derniers documents doivent avoir une durée de validité n'excédant pas trois mois (le nom et le prénom de l'intéressée et les noms de ses parents doivent être écris en langue arabe et en caractères latins sur l'acte de naissance) ",
+            "Une ampliation ou une copie certifiée conforme de l'acte accordant la nationalité marocaine, pour les étrangers ayant acquis ladite nationalité ",
+            "Un certificat de nationalité prévu par l'article 33 du dahir n° 1-58-250 du 6 septembre 1958 portent code de la nationalité marocaine, lorsque la nationalité marocaine du requérant parait douteuse",
+            "Un certificat de résidence délivré par les services territorialement compétents de la Sûreté Nationale ou la Gendarmerie Royale ou à défaut par l'autorité administrative locale ; Quatre photographies d'identité récentes de face, en couleur,sur fond clair, de format 3,5 cm fois 4,5 cm, le visage découvert et sans lunettes sombres"
+        ],
+        "price":"157DH"
+
+        
+    },
+    {
+        "id": 4,
+        "query": "other",
+        "procedure" : "dssds",
+        "result": [
+            "No result"
+        ]
+    }
+
+]

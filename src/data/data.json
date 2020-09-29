@@ -1,0 +1,38 @@
+[{
+        "id": 1,
+        "query": "google ",
+        "result": [
+            "result one for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result two for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result three for google Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+        ]
+    },
+
+    {
+        "id": 2,
+        "query": "maroc ",
+        "result": [
+            "result one for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result two for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+            "result three for maroc Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+        ]
+    },
+
+    {
+        "id": 3,
+        "query": "cin",
+        "result": [
+            "Creation d'une Carte CIN pour la première fois",
+            "Renouvellement d'une Carte CIN pour la première fois",
+            "Déclaration de perte d'une Carte CIN"
+        ]
+    },
+    {
+        "id": 4,
+        "query": "other",
+        "result": [
+            "No result"
+        ]
+    }
+
+]
