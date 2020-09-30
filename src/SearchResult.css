@@ -1,7 +1,46 @@
+.Search__Result {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.content__main {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-areas:
+    "search search"
+    "description result"
+    "description result"
+    "description price";
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1f 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+
+.Search__Container {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 2fr;
+  grid-template-areas:
+    "top"
+    "bottom";
+}
+.Search__View {
+  grid-area: top;
+}
+
+.Search__ViewR {
+  grid-area: bottom;
+}
+
 .titlebar__container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   background-color: #eee;
   padding: 8px 16px;

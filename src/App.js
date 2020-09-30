@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Search from "./Search";
 import SearchResult from "./SearchResult";
-import logo from "./logo.png"
+import logo from "./logo.png";
 import { Link, Switch, Route, BrowserRouter as Router } from "react-router-dom";
 import SearchResultDetails from "./SearchResultDetails";
 import Footer from "./footer";
