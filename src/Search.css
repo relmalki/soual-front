@@ -1,19 +1,22 @@
-.Search {
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
+.logo {
+  width: 140px;
+  height: 140px;
 }
 
+.Search__Start {
+}
+.Search__Left {
+}
 .nocenter {
-  flex: auto;
-  height: 30%;
+  margin: 10px;
+  margin-left: 20px;
+  display: flex;
+  height: 100%;
   width: 100%;
-  align-items: center;
-  text-align: center;
-  justify-content: space-between;
 }
 .center {
+  flex: auto;
+  flex-direction: row;
   height: 80%;
   width: 100%;
   padding-top: 15%;
@@ -57,8 +60,7 @@ button {
 }
 
 #cover {
-  position: relative;
-  left: 0;
+  position: fixed;
   right: 0;
   width: 100%;
 
